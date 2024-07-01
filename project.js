@@ -82,6 +82,66 @@ const quotes = [
     {
         quote: `Not how long, but how well you have lived is the main thing.`,
         person:`Seneca`,
+    },
+    {
+        quote: "The only limit to our realization of tomorrow is our doubts of today.",
+        person: "Franklin D. Roosevelt"
+    },
+    {
+        quote: "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+        person: "Martin Luther King Jr."
+    },
+    {
+        quote: "Life is what happens when you're busy making other plans.",
+        person: "John Lennon"
+    },
+    {
+        quote: "The purpose of our lives is to be happy.",
+        person: "Dalai Lama"
+    },
+    {
+        quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+        person: "Winston Churchill"
+    },
+    {
+        quote: "It is our choices that show what we truly are, far more than our abilities.",
+        person: "J.K. Rowling"
+    },
+    {
+        quote: "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+        person: "Buddha"
+    },
+    {
+        quote: "The best way to predict the future is to invent it.",
+        person: "Alan Kay"
+    },
+    {
+        quote: "You must be the change you wish to see in the world.",
+        person: "Mahatma Gandhi"
+    },
+    {
+        quote: "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        person: "Ralph Waldo Emerson"
+    },
+    {
+        quote: "I have not failed. I've just found 10,000 ways that won't work.",
+        person: "Thomas Edison"
+    },
+    {
+        quote: "The only way to do great work is to love what you do.",
+        person: "Steve Jobs"
+    },
+    {
+        quote: "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        person: "Nelson Mandela"
+    },
+    {
+        quote: "The only thing we have to fear is fear itself.",
+        person: "Franklin D. Roosevelt"
+    },
+    {
+        quote: "Imagination is more important than knowledge.",
+        person: "Albert Einstein"
     }
 ]
 btn.addEventListener('click', () => {
