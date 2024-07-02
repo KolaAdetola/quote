@@ -142,6 +142,10 @@ const quotes = [
     {
         quote: "Imagination is more important than knowledge.",
         person: "Albert Einstein"
+    },
+    {
+        quote:`in this life everything is based on reps`,
+        person:`martins danladi`
     }
 ]
 btn.addEventListener('click', () => {
