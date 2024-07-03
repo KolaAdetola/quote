@@ -341,42 +341,6 @@ const quotes = [
         //     person: "Confucius"
         // },
         // {
-        //     quote: "The journey of a thousand miles begins with a single step.",
-        //     person: "Lao Tzu"
-        // },
-        // {
-        //     quote: "Sometimes not getting what you want is a brilliant stroke of luck.",
-        //     person: "Dalai Lama"
-        // },
-        // {
-        //     quote: "A word is enough for the wise, but it's never enough for a fool.",
-        //     person: "Austin Ikpe King"
-        // },
-        // {
-        //     quote: "Be yourself; everyone else is already taken.",
-        //     person: "Oscar Wilde"
-        // },
-        // {
-        //     quote: "I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.",
-        //     person: "Marilyn Monroe"
-        // },
-        // {
-        //     quote: "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
-        //     person: "Albert Einstein"
-        // },
-        // {
-        //     quote: "In our society, letting others find out that you're a nice person is a very risky move. It's extremely likely that someone would take advantage of that.",
-        //     person: "Hitagi Senjougahara"
-        // },
-        // {
-        //     quote: "To know sorrow is not terrifying. What is terrifying is to know you can't go back to happiness you could have.",
-        //     person: "Matsumoto Rangiku"
-        // },
-        // {
-        //     quote: "When you have to deal with a beast, you have to treat him as a beast.",
-        //     person: "Sebastian Michaelis"
-        // },
-        // {
         //     quote: "If you don’t share someone’s pain, you can never understand them.",
         //     person: "Nagato"
         // },
@@ -408,5 +372,3 @@ const quotes = [
     quote.textContent = quotes[random].quote;
     persons.textContent = quotes[random].person;
 })
-
-    console.log(quotes.length)
