@@ -144,22 +144,22 @@ const quotes = [
         person: "Albert Einstein"
     },
 
-        // {
-        //     quote: "The only way to do great work is to love what you do.",
-        //     person: "Steve Jobs"
-        // },
-        // {
-        //     quote: "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
-        //     person: "Ralph Waldo Emerson"
-        // },
-        // {
-        //     quote: "In the end, we will remember not the words of our enemies, but the silence of our friends.",
-        //     person: "Martin Luther King Jr."
-        // },
-        // {
-        //     quote: "The only thing we have to fear is fear itself.",
-        //     person: "Franklin D. Roosevelt"
-        // },
+        {
+            quote: "The only way to do great work is to love what you do.",
+            person: "Steve Jobs"
+        },
+        {
+            quote: "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+            person: "Ralph Waldo Emerson"
+        },
+        {
+            quote: "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+            person: "Martin Luther King Jr."
+        },
+        {
+            quote: "The only thing we have to fear is fear itself.",
+            person: "Franklin D. Roosevelt"
+        },
         // {
         //     quote: "The unexamined life is not worth living.",
         //     person: "Socrates"
