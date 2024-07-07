@@ -144,50 +144,50 @@ const quotes = [
         person: "Albert Einstein"
     },
 
-        // {
-        //     quote: "The only way to do great work is to love what you do.",
-        //     person: "Steve Jobs"
-        // },
-        // {
-        //     quote: "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
-        //     person: "Ralph Waldo Emerson"
-        // },
-        // {
-        //     quote: "In the end, we will remember not the words of our enemies, but the silence of our friends.",
-        //     person: "Martin Luther King Jr."
-        // },
-        // {
-        //     quote: "The only thing we have to fear is fear itself.",
-        //     person: "Franklin D. Roosevelt"
-        // },
-        // {
-        //     quote: "The unexamined life is not worth living.",
-        //     person: "Socrates"
-        // },
-        // {
-        //     quote: "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
-        //     person: "Ralph Waldo Emerson"
-        // },
-        // {
-        //     quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
-        //     person: "Winston Churchill"
-        // },
-        // {
-        //     quote: "That which does not kill us makes us stronger.",
-        //     person: "Friedrich Nietzsche"
-        // },
-        // {
-        //     quote: "Life is what happens when you're busy making other plans.",
-        //     person: "John Lennon"
-        // },
-        // {
-        //     quote: "Good artists copy, great artists steal.",
-        //     person: "Pablo Picasso"
-        // },
-        // {
-        //     quote: "The journey of a thousand miles begins with one step.",
-        //     person: "Lao Tzu"
-        // },
+        {
+            quote: "The only way to do great work is to love what you do.",
+            person: "Steve Jobs"
+        },
+        {
+            quote: "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+            person: "Ralph Waldo Emerson"
+        },
+        {
+            quote: "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+            person: "Martin Luther King Jr."
+        },
+        {
+            quote: "The only thing we have to fear is fear itself.",
+            person: "Franklin D. Roosevelt"
+        },
+        {
+            quote: "The unexamined life is not worth living.",
+            person: "Socrates"
+        },
+        {
+            quote: "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+            person: "Ralph Waldo Emerson"
+        },
+        {
+            quote: "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+            person: "Winston Churchill"
+        },
+        {
+            quote: "That which does not kill us makes us stronger.",
+            person: "Friedrich Nietzsche"
+        },
+        {
+            quote: "Life is what happens when you're busy making other plans.",
+            person: "John Lennon"
+        },
+        {
+            quote: "Good artists copy, great artists steal.",
+            person: "Pablo Picasso"
+        },
+        {
+            quote: "The journey of a thousand miles begins with one step.",
+            person: "Lao Tzu"
+        },
         // {
         //     quote: "Dream big and dare to fail.",
         //     person: "Norman Vaughan"
